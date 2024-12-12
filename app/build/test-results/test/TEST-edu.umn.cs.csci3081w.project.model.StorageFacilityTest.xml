@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.umn.cs.csci3081w.project.model.StorageFacilityTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2024-11-19T22:58:41" hostname="Paulinas-MacBook-Pro-2.local" time="0.007">
+  <properties/>
+  <testcase name="incrementElectricTrainNum()" classname="edu.umn.cs.csci3081w.project.model.StorageFacilityTest" time="0.001"/>
+  <testcase name="incrementDieselTrainNum()" classname="edu.umn.cs.csci3081w.project.model.StorageFacilityTest" time="0.0"/>
+  <testcase name="decrementSmallBusesNum()" classname="edu.umn.cs.csci3081w.project.model.StorageFacilityTest" time="0.0"/>
+  <testcase name="incrementSmallBusesNum()" classname="edu.umn.cs.csci3081w.project.model.StorageFacilityTest" time="0.001"/>
+  <testcase name="decrementLargeBusesNum()" classname="edu.umn.cs.csci3081w.project.model.StorageFacilityTest" time="0.001"/>
+  <testcase name="decrementElectricTrainNum()" classname="edu.umn.cs.csci3081w.project.model.StorageFacilityTest" time="0.001"/>
+  <testcase name="incrementLargeBusesNum()" classname="edu.umn.cs.csci3081w.project.model.StorageFacilityTest" time="0.0"/>
+  <testcase name="decrementDieselTrainNum()" classname="edu.umn.cs.csci3081w.project.model.StorageFacilityTest" time="0.0"/>
+  <testcase name="testDefaultConstructor()" classname="edu.umn.cs.csci3081w.project.model.StorageFacilityTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
